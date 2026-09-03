@@ -1,37 +1,75 @@
-<!-- HERO HEADER WITH ANIMATED WAVE -->
+<div align="center">
+
+```
+██╗      █████╗ ██╗     ██╗████████╗██╗  ██╗     ██████╗██╗  ██╗ █████╗ ███╗   ██╗██████╗ ██████╗  █████╗ 
+██║     ██╔══██╗██║     ██║╚══██╔══╝██║  ██║    ██╔════╝██║  ██║██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗
+██║     ███████║██║     ██║   ██║   ███████║    ██║     ███████║███████║██╔██╗ ██║██║  ██║██████╔╝███████║
+██║     ██╔══██║██║     ██║   ██║   ██╔══██║    ██║     ██╔══██║██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══██║
+███████╗██║  ██║███████╗██║   ██║   ██║  ██║    ╚██████╗██║  ██║██║  ██║██║ ╚████║██████╔╝██║  ██║██║  ██║
+╚══════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+<!-- DYNAMIC ANIMATED MATRIX TERMINAL TYPING SVG -->
+<a href="https://github.com/lalithbuilds">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=00FF66&background=0D111700&center=true&vCenter=true&width=750&height=50&lines=%24+systemctl+status+ray-kernel+--active;%3E+STATUS%3A+ONLINE+%7C+1.24M+vecs%2Fsec+AMX+ACTIVE;%24+engram+recall+--project+sovereign;%3E+SOVEREIGN_CORE%3A+Engram+Alpha+v2.1.0+%5B1.21ms%5D;%24+whoami;%3E+Lalith+Chandra+%2F%2F+Architect+of+Autonomous+AI+Systems" alt="Terminal Typing Animation" />
+</a>
+
+<!-- CYBER HUD BADGES -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=220&section=header&text=Lalith%20Chandra&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Architect%20of%20Autonomous%20AI%20Ecosystems%20%7C%20Creator%20of%20Engram%20Alpha&descFontSize=19&descAlignY=60&animation=twinkling" width="100%" alt="Header" />
+  <a href="https://github.com/lalithbuilds/engram-alpha-mcp"><img src="https://img.shields.io/badge/CORE_SYSTEM-ENGRAM_ALPHA_v2.1.0-00F5FF?style=for-the-badge&logo=cpu&logoColor=black" alt="Engram Alpha Core" /></a>
+  <a href="https://github.com/lalithbuilds?tab=repositories"><img src="https://img.shields.io/badge/ARCH-APPLE_SILICON_AMX-FF0055?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Silicon AMX" /></a>
+  <a href="mailto:lalith070804@gmail.com"><img src="https://img.shields.io/badge/SECURE_LINK-CONTACT-00FF66?style=for-the-badge&logo=matrix&logoColor=black" alt="Contact" /></a>
 </p>
 
-<!-- DYNAMIC ANIMATED TYPING SUBTITLE -->
+</div>
+
+```bash
+╭─────────────────────────────────────────────────────────────────────────────────────────────╮
+│  SYSTEM ARCHITECTURE HUD                                                        NODE #01    │
+├─────────────────────────────────────────────────────────────────────────────────────────────┤
+│  • OPERATOR        : Lalith Chandra                                                         │
+│  • KERNEL          : Ray Autonomous Kernel (Antigravity Architecture)                       │
+│  • COMPUTE ENGINE  : Apple Silicon M-Series AMX (Direct Accelerate.framework ctypes)       │
+│  • MEMORY FABRIC   : Single-File SQLite WAL + POSIX Lock-Free Shared Memory Ring Buffers   │
+│  • RETRIEVAL MODE  : 4-Way Reciprocal Rank Fusion (Vector + Trigram + Graph + ACT-R Decay) │
+│  • TACTICAL SENSORS: 24/7 Wi-Fi Triangulation + Kalman Filter Fusion (<3m precision)       │
+│  • SOVEREIGNTY     : 100% On-Chip (Zero Network Egress · Zero Cloud Bills)                  │
+╰─────────────────────────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+### ⚡ LIVE TERMINAL TELEMETRY
+
 <p align="center">
   <a href="https://github.com/lalithbuilds">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=⚡+Building+Autonomous+AI+Ecosystems+%26+Agentic+Kernels;🧠+Creator+of+Engram+Alpha+MCP+(1.2M+vecs%2Fsec+AMX);🏎️+Zero-Latency+Sovereign+Cognitive+Substrates;🍎+Apple+Silicon+AMX+%26+POSIX+Shared+Memory+Architectures;🤖+Bridging+Local-First+AI+Swarms+to+Production" alt="Typing SVG" />
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=lalithbuilds&theme=tokyonight" alt="Live Terminal Stats" width="850px" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
   </a>
-</p>
-
-<!-- ACTION BADGES -->
-<p align="center">
-  <a href="https://github.com/lalithbuilds/engram-alpha-mcp"><img src="https://img.shields.io/badge/Flagship_MCP-Engram_Alpha_v2.1.0-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" alt="Engram Alpha" /></a>
-  <a href="mailto:lalith070804@gmail.com"><img src="https://img.shields.io/badge/Email-lalith070804%40gmail.com-00C49F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/lalithbuilds?tab=repositories"><img src="https://img.shields.io/badge/Open_Source-Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </p>
 
 ---
 
-### 🌟 FLAGSHIP SYSTEM: ENGRAM ALPHA MCP
+### 🧠 FLAGSHIP DEPLOYMENT: ENGRAM ALPHA MCP
 
 <p align="center">
   <a href="https://github.com/lalithbuilds/engram-alpha-mcp">
-    <img src="https://raw.githubusercontent.com/lalithbuilds/engram-alpha-mcp/master/assets/demo.gif" alt="Engram Alpha Live Terminal Demo" width="850px" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+    <img src="https://raw.githubusercontent.com/lalithbuilds/engram-alpha-mcp/master/assets/demo.gif" alt="Engram Alpha Live Terminal Recording" width="850px" style="border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 0 35px rgba(0, 245, 255, 0.25);" />
   </a>
 </p>
 
-> **[Engram Alpha](https://github.com/lalithbuilds/engram-alpha-mcp)** is a zero-cloud, hardware-accelerated cognitive memory engine for Claude Desktop, Cursor, and autonomous agent swarms. It unifies Apple Silicon AMX vector acceleration (1.2M+ vecs/sec), SQLite WAL persistence, 4-Way RRF hybrid retrieval, bi-temporal knowledge graphs, and native Obsidian vault synchronization.
-
-```bash
-# Instant One-Line Execution via uvx
-uvx engram-alpha-mcp
+```yaml
+ENGRAM_ALPHA_SPECIFICATION:
+  engine_type: "Sovereign Cognitive Graph & Vector MCP Memory Server"
+  benchmark_latency: "1.21 ms (p50)"             # ~900x faster than cloud memory SaaS
+  vector_scan_rate: "1,248,500 vecs/sec"         # Hardware-accelerated Apple AMX cblas_sdot
+  storage_substrate: "Single SQLite WAL Database"# Zero Docker · Zero Postgres · Zero Cloud
+  cognitive_fusion:
+    dense_vector: "Cosine similarity over 384-dim BAAI/bge-small-en-v1.5 (FastEmbed ONNX)"
+    exact_lexical: "SQLite FTS5 trigram tokenized inverted index (Exact code/tokens match)"
+    graph_topology: "Recursive SQL CTE traversal over bi-temporal triples with edge weights"
+    cognitive_decay: "ACT-R power-law decay (A = ln Σ t_i^-d) + spaced practice retention"
+  vault_synchronization: "Native Obsidian vault ingest: maps [[wikilinks]] into graph edges"
+  one_line_launch: "uvx engram-alpha-mcp"        # Instant zero-config execution
 ```
 
 <p align="center">
@@ -43,32 +81,50 @@ uvx engram-alpha-mcp
 
 ---
 
-### 🚀 PRODUCTION ECOSYSTEMS & ARCHITECTURES
+### 🖥️ SYSTEMS RUNTIME MATRIX
 
-| System | Architecture & Engineering Highlights | Status |
-| :--- | :--- | :---: |
-| **[Engram Alpha MCP](https://github.com/lalithbuilds/engram-alpha-mcp)** | Sovereign cognitive memory engine. Apple Silicon AMX vector coprocessor bindings via `Accelerate.framework` (1.2M+ vecs/sec), SQLite WAL single-file substrate, 4-Way RRF (Vector + Trigram FTS5 + Spreading Graph + ACT-R Decay), and POSIX SHM lock-free ring buffers. | 🟢 `v2.1.0 Active` |
-| **[Engram MCP (v1)](https://github.com/lalithbuilds/engram-mcp)** | Zero-dependency, pure Python standard library persistent memory engine with SQLite FTS5 for lightweight terminal agents. | 🟢 `Stable` |
-| **RaySentinel** | 24/7 Android foreground daemon with Kalman Filter sensor fusion, 2.4/5GHz Wi-Fi RSSI triangulation, and real-time tactical intelligence. 3,400+ LOC Kotlin/Native. | 🟢 `Deployed` |
-| **RayMapsBackend** | Geolocation engine featuring Extended Kalman Filter (EKF), sub-3m accuracy snapping against 600MB+ offline spatial OSM databases, and WebSocket telemetry pipelines. | 🟢 `Deployed` |
-| **HyperAgents Core** | Multi-agent execution harness featuring autonomous scouts, watchdogs, IPC message routers, and self-healing daemon processes. | 🟢 `Core Active` |
+```bash
+$ systemctl --user status sovereign-fleet.target
+● engram-alpha-mcp.service - Flagship Cognitive Memory Engine
+     Loaded: loaded (/usr/local/bin/engram-alpha-mcp; enabled)
+     Active: active (running) [v2.1.0 STABLE]
+     Metrics: 1.21ms p50 | 1.24M vecs/sec AMX | 4-Way RRF Hybrid Search | Obsidian Sync
+     URL: https://github.com/lalithbuilds/engram-alpha-mcp
+
+● raysentinel-daemon.service - 24/7 Android Foreground Sensor Fusion
+     Loaded: loaded (Kotlin 2.0 / Native JNI; 3,400+ LOC)
+     Active: active (running) [MISSION CRITICAL]
+     Metrics: Kalman Filter Sensor Fusion | 2.4/5GHz AP RSSI Sniffing (<3m precision)
+
+● raymaps-core.service - Real-Time Geolocation & Spatial Snapping
+     Loaded: loaded (600MB+ Offline Spatial DB; EKF Pipeline)
+     Active: active (running) [SUB-MILLISECOND]
+     Metrics: Extended Kalman Filter | OSM 3D Building Snapping | WebSocket Telemetry
+
+● hyperagents-kernel.service - Multi-Agent Headless Orchestrator
+     Loaded: loaded (Antigravity Architecture / POSIX SHM SPSC Ring Buffers)
+     Active: active (running) [LOCK-FREE]
+     Metrics: Zero-Disruption Execution | Delta-CRDTs | Epoll Event Signaling
+```
 
 ---
 
-### 🛠️ CORE ENGINEERING TECH STACK
+### 🛠️ HARDWARE & SOFTWARE ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,c,kotlin,sqlite,postgres,docker,apple,fastapi,git,flutter,android&perline=12&theme=dark" alt="Tech Stack Icons" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,c,kotlin,sqlite,postgres,docker,apple,fastapi,git,flutter,android&perline=12&theme=dark" alt="Tech Stack Icons" />
+  </a>
 </p>
 
-* **High-Performance Runtimes:** Python · Rust · C · Kotlin · Bash / POSIX Shell
-* **Memory & Storage Substrates:** SQLite (WAL / FTS5 / sqlite-vec) · POSIX Shared Memory (`shm`) · ZeroMQ (`ipc://`) · DuckDB · Qdrant
-* **Hardware Compute Acceleration:** Apple Silicon AMX Coprocessor (`Accelerate.framework`) · C-BLAS · SIMD AVX-512 · MLX
-* **Agentic Protocol & Interfaces:** Model Context Protocol (MCP) · FastMCP · REST / OpenAPI · WebSockets · Flutter · Jetpack Compose
+* **Core Engines:** Python 3.10+ · Rust · C (ctypes / FFI) · Kotlin / Android Native
+* **Data & Memory Fabrics:** SQLite (WAL / FTS5 / sqlite-vec) · POSIX Shared Memory (`shm`) · ZeroMQ (`ipc://`) · DuckDB · Qdrant
+* **Hardware Accelerators:** Apple Silicon AMX (`Accelerate.framework` `cblas_sdot` / `vDSP_vsmul`) · C-BLAS · AVX-512 · MLX
+* **Agentic Interfaces:** Model Context Protocol (MCP) · FastMCP · REST / OpenAPI · WebSockets · Flutter
 
 ---
 
-### 📊 CONTRIBUTIONS & SYSTEM ACTIVITY
+### 📈 CONTRIBUTION STREAK & TEMPORAL ACTIVITY
 
 <p align="center">
   <picture>
@@ -81,11 +137,12 @@ uvx engram-alpha-mcp
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalithbuilds&theme=tokyonight&hide_border=true" alt="Contribution Streak" height="175" />
   <img src="https://github-readme-stats.vercel.app/api?username=lalithbuilds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithbuilds&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=90&section=footer" width="100%" alt="Footer Wave" />
-</p>
+```bash
+[lalith@ray-kernel ~]$ echo "Building the sovereign infrastructure for the next generation of autonomous intelligence."
+Building the sovereign infrastructure for the next generation of autonomous intelligence.
+[lalith@ray-kernel ~]$ █
+```
