@@ -12,7 +12,7 @@ Welcome to my command center. I build autonomous, multi-agent AI systems, cross-
 ---
 
 ### 🎯 Focus for 2026
-*   **Persistent AI Memory:** Building [`engram-mcp`](https://github.com/lalithbuilds/engram-mcp) — a zero-dependency MCP server so AI agents never forget.
+*   **Flagship Cognitive Memory Engine:** Building [`engram-alpha-mcp`](https://github.com/lalithbuilds/engram-alpha-mcp) — Sovereign local-first long-term memory for Claude Desktop, Cursor, and Windsurf. Features Apple AMX hardware acceleration (1.2M+ vecs/sec), SQLite WAL, 4-Way RRF hybrid retrieval, and bi-temporal knowledge graphs.
 *   **Headless Orchestration:** Pushing autonomous execution boundaries with multi-agent kernels.
 *   **Cross-Platform Native UX:** Building high-performance interfaces (Flutter/Jetpack Compose) as front-ends to complex AI systems.
 
@@ -20,7 +20,8 @@ Welcome to my command center. I build autonomous, multi-agent AI systems, cross-
 
 | Project | What It Does |
 |:---|:---|
-| **[engram-mcp](https://github.com/lalithbuilds/engram-mcp)** | Zero-dependency MCP server for persistent AI agent memory. Pure stdlib Python. 18/18 tests passing. |
+| **[Engram Alpha](https://github.com/lalithbuilds/engram-alpha-mcp)** | Sovereign local-first cognitive memory engine with Apple Silicon AMX acceleration, SQLite WAL, 4-Way RRF hybrid retrieval, and native Obsidian vault sync. `uvx engram-alpha-mcp`. |
+| **[engram-mcp](https://github.com/lalithbuilds/engram-mcp)** | Zero-dependency, pure stdlib Python predecessor memory engine using SQLite FTS5. |
 | **RaySentinel** | 24/7 Android foreground service with Kalman Filter sensor fusion, Wi-Fi triangulation, and tactical intelligence. 3,400+ LOC. |
 | **RayMapsBackend** | Real-time geolocation backend with Extended Kalman Filter, OSM building snapping, and a 600MB+ offline spatial database. |
 | **Comms Bridges** | Bidirectional Discord & Firebase servers enabling AI agents to interact with human operators and cloud databases. |
