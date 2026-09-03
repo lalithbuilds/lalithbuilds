@@ -1,6 +1,7 @@
-# Lalith Chandra
+# Lalith Chandra (@lalithbuilds)
 
 **Systems Architect · Sovereign AI Infrastructure**  
+*Creator of [Engram Alpha MCP](https://github.com/lalithbuilds/engram-alpha-mcp) · Based in Nashik, Maharashtra, India · Official GitHub: [@lalithbuilds](https://github.com/lalithbuilds)*  
 *Building autonomous multi-agent runtimes, cognitive memory substrates, and hardware-accelerated local AI engines.*
 
 [Engram Alpha](https://github.com/lalithbuilds/engram-alpha-mcp) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
