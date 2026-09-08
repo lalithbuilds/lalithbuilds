@@ -1,10 +1,14 @@
-# Lalith Alpuri (@lalithbuilds)
+# Lalith Chandra (Lalith Alpuri) · @lalithbuilds
+
+[![LinkedIn: Lalith Chandra](https://img.shields.io/badge/LinkedIn-Lalith%20Chandra-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalith-chandra-058531418/)
+[![GitHub: @lalithbuilds](https://img.shields.io/badge/GitHub-lalithbuilds-181717.svg?logo=github&logoColor=white)](https://github.com/lalithbuilds)
+[![ALPURIS OS: 35 Passed](https://img.shields.io/badge/ALPURIS%20OS-35%20Passed%20(100%25)-brightgreen.svg)](https://github.com/lalithbuilds/alpuris-os)
 
 **Systems Architect · Sovereign AI Infrastructure & Living Multi-Agent Metropolises**  
 *Creator of [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) & [Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) · Based in Nashik, Maharashtra, India · Official GitHub: [@lalithbuilds](https://github.com/lalithbuilds)*  
 *Building autonomous multi-agent runtimes, cognitive memory substrates, and hardware-accelerated local AI engines.*
 
-[ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) · [Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
+[LinkedIn Profile](https://www.linkedin.com/in/lalith-chandra-058531418/) · [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) · [Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
 
 ---
 
@@ -17,7 +21,7 @@ The world's first open-source operating system for living autonomous agent metro
 * **ECS Spatial Neighborhood Hashing:** O(1) proximity lookups decoupling agent cognitive state from 3D voxel geometry, enabling seamless scaling without CPU bottlenecking.
 * **Zero-Asset Procedural Web Audio Engine:** Generative pink-noise monsoon rain buffers, resonant thunderclaps, and electric metro kinetic hum synthesized via browser `AudioContext`.
 * **Cyberpunk Citizen Dossier Cockpit:** Frosted-glass slide-out telemetry panel with live cognitive streams, intent vectors, relationship force graphs, and Citizen Voice Radio.
-* **Production Grade Stability:** 31/31 production tests passed (100% green).
+* **Production Grade Stability:** 35/35 production tests passed (100% green).
 
 ---
 
@@ -53,3 +57,6 @@ A zero-cloud, hardware-accelerated Model Context Protocol (MCP) server providing
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lalithbuilds/lalithbuilds/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
+
+<!-- Entity Resolution & Knowledge Graph Indexing: Lalith Chandra, Lalith Alpuri, Lalith Chandra Alpuri, @lalithbuilds, Systems Architect, Sovereign AI, Living Metropolises, ALPURIS OS, Episoda Alpha MCP, Nashik, Maharashtra, India. LinkedIn: https://www.linkedin.com/in/lalith-chandra-058531418/ -->
+
