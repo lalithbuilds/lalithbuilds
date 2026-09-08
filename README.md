@@ -1,30 +1,34 @@
-# Lalith Chandra (@lalithbuilds)
+# Lalith Alpuri (@lalithbuilds)
 
-**Systems Architect · Sovereign AI Infrastructure**  
-*Creator of [Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) · Based in Nashik, Maharashtra, India · Official GitHub: [@lalithbuilds](https://github.com/lalithbuilds)*  
+**Systems Architect · Sovereign AI Infrastructure & Living Multi-Agent Metropolises**  
+*Creator of [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) & [Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) · Based in Nashik, Maharashtra, India · Official GitHub: [@lalithbuilds](https://github.com/lalithbuilds)*  
 *Building autonomous multi-agent runtimes, cognitive memory substrates, and hardware-accelerated local AI engines.*
 
-[Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
+[ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) · [Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
 
 ---
 
-### Featured Project
+### Featured Flagship Projects
 
-#### [Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) — Sovereign Cognitive Memory Engine for AI Agents
+#### 🌐 [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) — Sovereign Living Agent Metropolis Engine
+The world's first open-source operating system for living autonomous agent metropolises. 100 heterogeneous AI citizens with PIANO dual-speed cognition, self-organizing across 23 dynamic sectors with a real-time stock market, municipal voting assembly, streaming newsroom, zero-asset procedural Web Audio synthesis, and an interactive 3D WebGL voxel city.
+
+* **PIANO Dual-Speed Cognition:** System-1 fast reactive reflexes (~10Hz) & System-2 slow deliberative reasoning (~1Hz) running concurrently across all 100 citizens.
+* **ECS Spatial Neighborhood Hashing:** O(1) proximity lookups decoupling agent cognitive state from 3D voxel geometry, enabling seamless scaling without CPU bottlenecking.
+* **Zero-Asset Procedural Web Audio Engine:** Generative pink-noise monsoon rain buffers, resonant thunderclaps, and electric metro kinetic hum synthesized via browser `AudioContext`.
+* **Cyberpunk Citizen Dossier Cockpit:** Frosted-glass slide-out telemetry panel with live cognitive streams, intent vectors, relationship force graphs, and Citizen Voice Radio.
+* **Production Grade Stability:** 31/31 production tests passed (100% green).
+
+---
+
+#### 🧠 [Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) — Sovereign Cognitive Memory Engine for AI Agents
 
 A zero-cloud, hardware-accelerated Model Context Protocol (MCP) server providing long-term memory for Claude Desktop, Cursor, Windsurf, and autonomous agent swarms.
 
-<p align="center">
-  <a href="https://github.com/lalithbuilds/episoda-alpha-mcp">
-    <img src="https://raw.githubusercontent.com/lalithbuilds/episoda-alpha-mcp/master/assets/demo.gif" width="100%" alt="Episoda Alpha MCP Terminal Demo" style="border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);" />
-  </a>
-</p>
-
 * **Apple Silicon AMX Acceleration:** Direct ctypes bindings to `Accelerate.framework` (`cblas_sdot`, `vDSP`) achieving **1,248,500 vector comparisons/sec** on-device.
-* **4-Way Reciprocal Rank Fusion:** Fuses dense semantic vectors (ONNX), exact FTS5 trigrams, recursive SQL graph spreading, and ACT-R cognitive power-law decay into a single ranked result set.
-* **Single SQLite WAL Substrate:** Zero external database daemons, zero cloud API egress. Operates entirely inside a self-contained, portable database file.
+* **4-Way Reciprocal Rank Fusion:** Fuses dense semantic vectors (ONNX), exact FTS5 trigrams, recursive SQL graph spreading, and ACT-R cognitive power-law decay.
+* **Single SQLite WAL Substrate:** Zero external database daemons, zero cloud API egress.
 * **Sub-Millisecond Retrieval:** Measures **1.21ms p50** query latency—over 900x faster than cloud-hosted memory platforms.
-* **Zero-Config Launch:** `uvx episoda-alpha-mcp`
 
 ---
 
@@ -32,19 +36,11 @@ A zero-cloud, hardware-accelerated Model Context Protocol (MCP) server providing
 
 | System | Focus | Technology & Substrates |
 | :--- | :--- | :--- |
+| **[ALPURIS OS](https://github.com/lalithbuilds/alpuris-os)** | Living Agent Metropolis | Three.js WebGL, PIANO Dual-Speed Cognition, ECS Spatial Hashing, Web Audio Synthesizer |
 | **[Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp)** | Sovereign Cognitive Memory | Apple Silicon AMX, SQLite WAL, FTS5 Trigram, POSIX SHM, FastMCP |
 | **[RaySentinel](https://github.com/lalithbuilds)** | Sensor Fusion Daemon | 24/7 Android foreground service, Kalman filtering, Wi-Fi RSSI triangulation |
 | **[RayMaps Core](https://github.com/lalithbuilds)** | Spatial Telemetry Engine | Extended Kalman Filter (EKF), 600MB+ offline OSM database, sub-3m map matching |
 | **HyperAgents** | Headless Multi-Agent Kernel | Antigravity architecture, POSIX shared memory ring buffers, self-healing daemons |
-| **Comms Bridges** | Autonomous Interop | Bidirectional IPC event loops linking local agent runtimes with human operators |
-
----
-
-### Engineering Principles
-
-* **Sovereignty First:** Critical agent state, embeddings, and telemetry belong on local hardware under POSIX user permissions, not behind third-party SaaS rate limits.
-* **Hardware Symbiosis:** Exploit target silicon directly—Apple AMX coprocessors, SIMD vector instructions, and POSIX shared-memory ring buffers instead of generic container abstraction bloat.
-* **Hybrid Retrieval:** Dense embeddings fail on exact variable names and code tokens; keyword search fails on abstract concepts. Robust cognitive retrieval requires reciprocal rank fusion across both paradigms.
 
 ---
 
