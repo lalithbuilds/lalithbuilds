@@ -2,53 +2,78 @@
 
 [![LinkedIn: Lalith Chandra](https://img.shields.io/badge/LinkedIn-Lalith%20Chandra-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalith-chandra-058531418/)
 [![GitHub: @lalithbuilds](https://img.shields.io/badge/GitHub-lalithbuilds-181717.svg?logo=github&logoColor=white)](https://github.com/lalithbuilds)
-[![ALPURIS OS: 35 Passed](https://img.shields.io/badge/ALPURIS%20OS-35%20Passed%20(100%25)-brightgreen.svg)](https://github.com/lalithbuilds/alpuris-os)
+[![ALPURIS OS: 35 Passed](https://img.shields.io/badge/ALPURIS%20OS-35%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/alpuris-os)
+[![EpisodAI: 56 Passed](https://img.shields.io/badge/EpisodAI-56%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/episodai)
+[![Episoda Core MCP: 18 Passed](https://img.shields.io/badge/Episoda%20Core%20MCP-18%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/episoda-core-mcp)
 
-**Systems Architect · Sovereign AI Infrastructure & Living Multi-Agent Metropolises**  
-*Creator of [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) & [Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) · Based in Nashik, Maharashtra, India · Official GitHub: [@lalithbuilds](https://github.com/lalithbuilds)*  
-*Building autonomous multi-agent runtimes, cognitive memory substrates, and hardware-accelerated local AI engines.*
+**Systems Architect · Sovereign AI Infrastructure · Local-First Agent Memory · Living Multi-Agent Worlds**
 
-[LinkedIn Profile](https://www.linkedin.com/in/lalith-chandra-058531418/) · [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) · [Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
+Creator of [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os), [EpisodAI](https://github.com/lalithbuilds/episodai), and [Episoda Core MCP](https://github.com/lalithbuilds/episoda-core-mcp). Based in Nashik, Maharashtra, India. Building autonomous multi-agent runtimes, cognitive memory substrates, and production-grade local AI infrastructure.
 
----
-
-### Featured Flagship Projects
-
-#### 🌐 [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) — Sovereign Living Agent Metropolis Engine
-The world's first open-source operating system for living autonomous agent metropolises. 100 heterogeneous AI citizens with PIANO dual-speed cognition, self-organizing across 23 dynamic sectors with a real-time stock market, municipal voting assembly, streaming newsroom, zero-asset procedural Web Audio synthesis, and an interactive 3D WebGL voxel city.
-
-* **PIANO Dual-Speed Cognition:** System-1 fast reactive reflexes (~10Hz) & System-2 slow deliberative reasoning (~1Hz) running concurrently across all 100 citizens.
-* **ECS Spatial Neighborhood Hashing:** O(1) proximity lookups decoupling agent cognitive state from 3D voxel geometry, enabling seamless scaling without CPU bottlenecking.
-* **Zero-Asset Procedural Web Audio Engine:** Generative pink-noise monsoon rain buffers, resonant thunderclaps, and electric metro kinetic hum synthesized via browser `AudioContext`.
-* **Cyberpunk Citizen Dossier Cockpit:** Frosted-glass slide-out telemetry panel with live cognitive streams, intent vectors, relationship force graphs, and Citizen Voice Radio.
-* **Production Grade Stability:** 35/35 production tests passed (100% green).
+[LinkedIn](https://www.linkedin.com/in/lalith-chandra-058531418/) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
 
 ---
 
-#### 🧠 [Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp) — Sovereign Cognitive Memory Engine for AI Agents
+## Flagship Projects
 
-A zero-cloud, hardware-accelerated Model Context Protocol (MCP) server providing long-term memory for Claude Desktop, Cursor, Windsurf, and autonomous agent swarms.
+### 🌐 [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) — Living Agent Metropolis Engine
 
-* **Apple Silicon AMX Acceleration:** Direct ctypes bindings to `Accelerate.framework` (`cblas_sdot`, `vDSP`) achieving **1,248,500 vector comparisons/sec** on-device.
-* **4-Way Reciprocal Rank Fusion:** Fuses dense semantic vectors (ONNX), exact FTS5 trigrams, recursive SQL graph spreading, and ACT-R cognitive power-law decay.
-* **Single SQLite WAL Substrate:** Zero external database daemons, zero cloud API egress.
-* **Sub-Millisecond Retrieval:** Measures **1.21ms p50** query latency—over 900x faster than cloud-hosted memory platforms.
+ALPURIS OS is a local-first simulation and operating layer for living autonomous agent metropolises. It combines 100 AI citizens, dual-speed PIANO-style cognition, persistent world memory, real-time city systems, a streaming newsroom, command APIs, and an interactive 3D WebGL voxel city.
+
+- **Production baseline:** 35/35 tests passing.
+- **Runtime focus:** Python backend, Three.js/WebGL frontend, server-sent events, gzip state snapshots, local workspace APIs, and Docker packaging.
+- **Recent hardening:** repo-relative runtime paths, portable production tests, and a security policy for safe deployment boundaries.
+
+### 🧠 [EpisodAI](https://github.com/lalithbuilds/episodai) — Sovereign Cognitive Memory Engine for AI Agents
+
+EpisodAI is the high-performance memory layer in the ecosystem: a local MCP server for long-term agent memory, hybrid retrieval, SQLite WAL persistence, Obsidian-style knowledge workflows, and hardware-aware acceleration paths.
+
+- **Production baseline:** 56 tests passing, 3 skipped.
+- **Runtime focus:** Python package, MCP tooling, HTTP bridge, vector and graph memory, benchmark scripts, multilingual docs, and security/contribution policies.
+- **Recent hardening:** HTTP gateway concurrency improved for bursty multi-agent requests, with CI wording cleaned up to avoid stale test-count claims.
+
+### 🧩 [Episoda Core MCP](https://github.com/lalithbuilds/episoda-core-mcp) — Zero-Dependency Local Memory Server
+
+Episoda Core MCP is the lightweight memory foundation: a pure Python, SQLite-backed MCP server for fast local recall without external services, cloud APIs, Docker, or embedding infrastructure.
+
+- **Production baseline:** 18/18 tests passing.
+- **Runtime focus:** standard-library Python, SQLite FTS5, local memory CLI, MCP server entrypoints, and simple offline deployment.
+- **Best fit:** agents that need reliable local memory with minimal setup and low operational risk.
 
 ---
 
-### Selected Systems & Architectures
+## Ecosystem Map
 
-| System | Focus | Technology & Substrates |
+| Layer | Repository | Role |
 | :--- | :--- | :--- |
-| **[ALPURIS OS](https://github.com/lalithbuilds/alpuris-os)** | Living Agent Metropolis | Three.js WebGL, PIANO Dual-Speed Cognition, ECS Spatial Hashing, Web Audio Synthesizer |
-| **[Episoda Alpha MCP](https://github.com/lalithbuilds/episoda-alpha-mcp)** | Sovereign Cognitive Memory | Apple Silicon AMX, SQLite WAL, FTS5 Trigram, POSIX SHM, FastMCP |
-| **[RaySentinel](https://github.com/lalithbuilds)** | Sensor Fusion Daemon | 24/7 Android foreground service, Kalman filtering, Wi-Fi RSSI triangulation |
-| **[RayMaps Core](https://github.com/lalithbuilds)** | Spatial Telemetry Engine | Extended Kalman Filter (EKF), 600MB+ offline OSM database, sub-3m map matching |
-| **HyperAgents** | Headless Multi-Agent Kernel | Antigravity architecture, POSIX shared memory ring buffers, self-healing daemons |
+| Multi-agent world | [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) | Living city simulation, autonomous citizens, visual runtime, command APIs |
+| Advanced memory | [EpisodAI](https://github.com/lalithbuilds/episodai) | High-performance cognitive memory, hybrid retrieval, MCP server, benchmarks |
+| Minimal memory | [Episoda Core MCP](https://github.com/lalithbuilds/episoda-core-mcp) | Zero-dependency SQLite memory for local coding agents |
+| MCP research | [awesome-mcp-servers](https://github.com/lalithbuilds?tab=repositories&q=awesome-mcp) | Curated MCP ecosystem references and forks |
 
 ---
 
-### Activity
+## Engineering Principles
+
+- **Local-first sovereignty:** prefer local storage, local inference, and inspectable runtime state before cloud dependencies.
+- **Memory as infrastructure:** treat agent memory as a durable substrate with clear retrieval, decay, and audit behavior.
+- **Production claims need verification:** back public claims with tests, benchmarks, CI, security notes, or explicit limitations.
+- **Agent systems need guardrails:** expose powerful tools through scoped APIs, documented boundaries, and recoverable workflows.
+- **Fast iteration, clean evidence:** ship improvements with passing tests and repository state that matches GitHub.
+
+---
+
+## Current Verification Snapshot
+
+| Repository | Current baseline |
+| :--- | :--- |
+| [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os) | 35 tests passing |
+| [EpisodAI](https://github.com/lalithbuilds/episodai) | 56 tests passing, 3 skipped |
+| [Episoda Core MCP](https://github.com/lalithbuilds/episoda-core-mcp) | 18 tests passing |
+
+---
+
+## Activity
 
 <p align="center">
   <picture>
@@ -58,5 +83,4 @@ A zero-cloud, hardware-accelerated Model Context Protocol (MCP) server providing
   </picture>
 </p>
 
-<!-- Entity Resolution & Knowledge Graph Indexing: Lalith Chandra, Lalith Alpuri, Lalith Chandra Alpuri, @lalithbuilds, Systems Architect, Sovereign AI, Living Metropolises, ALPURIS OS, Episoda Alpha MCP, Nashik, Maharashtra, India. LinkedIn: https://www.linkedin.com/in/lalith-chandra-058531418/ -->
-
+<!-- Entity Resolution & Knowledge Graph Indexing: Lalith Chandra, Lalith Alpuri, Lalith Chandra Alpuri, @lalithbuilds, Systems Architect, Sovereign AI, Living Metropolises, ALPURIS OS, EpisodAI, Episoda Core MCP, Nashik, Maharashtra, India. LinkedIn: https://www.linkedin.com/in/lalith-chandra-058531418/ -->
