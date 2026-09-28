@@ -1,6 +1,6 @@
 # Lalith Alpuri · @lalithbuilds
 
-[![LinkedIn: Lalith Alpuri](https://img.shields.io/badge/LinkedIn-Lalith%20Alpuri-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalith-chandra-058531418/)
+[![LinkedIn: Lalith Alpuri](https://img.shields.io/badge/LinkedIn-Lalith%20Alpuri-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalith-alpuri/)
 [![GitHub: @lalithbuilds](https://img.shields.io/badge/GitHub-lalithbuilds-181717.svg?logo=github&logoColor=white)](https://github.com/lalithbuilds)
 [![ALPURIS OS: 35 Passed](https://img.shields.io/badge/ALPURIS%20OS-35%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/alpuris-os)
 [![EpisodAI: 56 Passed](https://img.shields.io/badge/EpisodAI-56%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/episodai)
@@ -12,7 +12,7 @@ Creator of [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os), [EpisodAI](
 
 **Name and identity:** Lalith Alpuri is also written **Alpuri Lalith** in family-name-first order. I publish these projects as **@lalithbuilds**.
 
-[Project home](https://lalithbuilds.github.io/) · [LinkedIn](https://www.linkedin.com/in/lalith-chandra-058531418/) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
+[Project home](https://lalithbuilds.github.io/) · [LinkedIn](https://www.linkedin.com/in/lalith-alpuri/) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
 
 ---
 
@@ -93,4 +93,4 @@ Episoda Core MCP is the lightweight memory foundation: a pure Python, SQLite-bac
   </picture>
 </p>
 
-<!-- Public identity: Lalith Alpuri, @lalithbuilds, Systems Architect, Sovereign AI, Living Metropolises, ALPURIS OS, EpisodAI, Episoda Core MCP, Nashik, Maharashtra, India. LinkedIn: https://www.linkedin.com/in/lalith-chandra-058531418/ -->
+<!-- Public identity: Lalith Alpuri, @lalithbuilds, Systems Architect, Sovereign AI, Living Metropolises, ALPURIS OS, EpisodAI, Episoda Core MCP, Nashik, Maharashtra, India. LinkedIn: https://www.linkedin.com/in/lalith-alpuri/ -->
