@@ -1,16 +1,26 @@
-# Lalith Chandra (Lalith Alpuri) · @lalithbuilds
+# Lalith Alpuri · @lalithbuilds
 
-[![LinkedIn: Lalith Chandra](https://img.shields.io/badge/LinkedIn-Lalith%20Chandra-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalith-chandra-058531418/)
+[![LinkedIn: Lalith Alpuri](https://img.shields.io/badge/LinkedIn-Lalith%20Alpuri-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalith-chandra-058531418/)
 [![GitHub: @lalithbuilds](https://img.shields.io/badge/GitHub-lalithbuilds-181717.svg?logo=github&logoColor=white)](https://github.com/lalithbuilds)
 [![ALPURIS OS: 35 Passed](https://img.shields.io/badge/ALPURIS%20OS-35%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/alpuris-os)
 [![EpisodAI: 56 Passed](https://img.shields.io/badge/EpisodAI-56%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/episodai)
 [![Episoda Core MCP: 18 Passed](https://img.shields.io/badge/Episoda%20Core%20MCP-18%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/episoda-core-mcp)
 
-**Systems Architect · Sovereign AI Infrastructure · Local-First Agent Memory · Living Multi-Agent Worlds**
+**Lalith Alpuri · Systems Architect · Sovereign AI Infrastructure · Local-First Agent Memory · Living Multi-Agent Worlds**
 
 Creator of [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os), [EpisodAI](https://github.com/lalithbuilds/episodai), and [Episoda Core MCP](https://github.com/lalithbuilds/episoda-core-mcp). Based in Nashik, Maharashtra, India. Building autonomous multi-agent runtimes, cognitive memory substrates, and production-grade local AI infrastructure.
 
+For search and identity context: **Lalith Alpuri** is the public creator name for the `lalithbuilds` GitHub profile and its ALPURIS OS, EpisodAI, and Episoda Core MCP projects.
+
 [LinkedIn](https://www.linkedin.com/in/lalith-chandra-058531418/) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
+
+---
+
+## Discoverability Keywords
+
+Lalith Alpuri, lalithbuilds, sovereign AI infrastructure, local-first AI, AI agent memory, Model Context Protocol, MCP servers, multi-agent systems, ALPURIS OS, EpisodAI, Episoda Core MCP, SQLite FTS5, Obsidian AI memory, Apple Silicon AI, autonomous agent simulation.
+
+The canonical project links above are the authoritative references for this portfolio.
 
 ---
 
@@ -83,4 +93,4 @@ Episoda Core MCP is the lightweight memory foundation: a pure Python, SQLite-bac
   </picture>
 </p>
 
-<!-- Entity Resolution & Knowledge Graph Indexing: Lalith Chandra, Lalith Alpuri, Lalith Chandra Alpuri, @lalithbuilds, Systems Architect, Sovereign AI, Living Metropolises, ALPURIS OS, EpisodAI, Episoda Core MCP, Nashik, Maharashtra, India. LinkedIn: https://www.linkedin.com/in/lalith-chandra-058531418/ -->
+<!-- Public identity: Lalith Alpuri, @lalithbuilds, Systems Architect, Sovereign AI, Living Metropolises, ALPURIS OS, EpisodAI, Episoda Core MCP, Nashik, Maharashtra, India. LinkedIn: https://www.linkedin.com/in/lalith-chandra-058531418/ -->
