@@ -8,19 +8,19 @@
 
 **Lalith Alpuri · Systems Architect · Sovereign AI Infrastructure · Local-First Agent Memory · Living Multi-Agent Worlds**
 
-Creator of [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os), [EpisodAI](https://github.com/lalithbuilds/episodai), and [Episoda Core MCP](https://github.com/lalithbuilds/episoda-core-mcp). Based in Nashik, Maharashtra, India. Building autonomous multi-agent runtimes, cognitive memory substrates, and production-grade local AI infrastructure.
+Creator of [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os), [EpisodAI](https://github.com/lalithbuilds/episodai), and [Episoda Core MCP](https://github.com/lalithbuilds/episoda-core-mcp). Building autonomous multi-agent runtimes and local memory tools for AI developers.
 
-For search and identity context: **Lalith Alpuri** is the public creator name for the `lalithbuilds` GitHub profile and its ALPURIS OS, EpisodAI, and Episoda Core MCP projects.
+**Name and identity:** Lalith Alpuri is also written **Alpuri Lalith** in family-name-first order. I publish these projects as **@lalithbuilds**.
 
-[LinkedIn](https://www.linkedin.com/in/lalith-chandra-058531418/) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
+[Project home](https://lalithbuilds.github.io/) · [LinkedIn](https://www.linkedin.com/in/lalith-chandra-058531418/) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
 
 ---
 
-## Discoverability Keywords
+## What I build
 
-Lalith Alpuri, lalithbuilds, sovereign AI infrastructure, local-first AI, AI agent memory, Model Context Protocol, MCP servers, multi-agent systems, ALPURIS OS, EpisodAI, Episoda Core MCP, SQLite FTS5, Obsidian AI memory, Apple Silicon AI, autonomous agent simulation.
+I build local-first AI systems that developers can inspect and run themselves. ALPURIS OS is the multi-agent simulation. EpisodAI and Episoda Core MCP are two different approaches to persistent agent memory through the Model Context Protocol: one focuses on richer retrieval and workflows, the other on a small Python and SQLite setup.
 
-The canonical project links above are the authoritative references for this portfolio.
+The [project home](https://lalithbuilds.github.io/) and the three repositories above are the authoritative references for this work.
 
 ---
 
