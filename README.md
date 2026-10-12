@@ -12,7 +12,7 @@ Creator of [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os), [EpisodAI](
 
 **Name and identity:** Lalith Alpuri is also written **Alpuri Lalith** in family-name-first order. The names refer to the same person. I publish these projects as **@lalithbuilds**. See the [canonical profile](https://lalithbuilds.github.io/about.html) for a concise bio and links to the public source repositories.
 
-[Canonical profile](https://lalithbuilds.github.io/about.html) · [Project home](https://lalithbuilds.github.io/) · [LinkedIn](https://www.linkedin.com/in/lalith-alpuri/) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
+[Canonical profile](https://lalithbuilds.github.io/about.html) · [Project home](https://lalithbuilds.github.io/) · [LinkedIn](https://www.linkedin.com/in/lalith-alpuri/) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalithalpuri.worK@gmail.com)
 
 ---
 
