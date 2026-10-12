@@ -6,7 +6,7 @@
 [![EpisodAI: 56 Passed](https://img.shields.io/badge/EpisodAI-56%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/episodai)
 [![Episoda Core MCP: 18 Passed](https://img.shields.io/badge/Episoda%20Core%20MCP-18%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/episoda-core-mcp)
 
-**Lalith Alpuri (also written Alpuri Lalith) · AI Systems Engineer · Open-Source Developer · @lalithbuilds**
+**Lalith Alpuri (also written Alpuri Lalith) · Nashik, Maharashtra, India · AI Systems Engineer · Open-Source Developer · @lalithbuilds**
 
 Creator of [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os), [EpisodAI](https://github.com/lalithbuilds/episodai), and [Episoda Core MCP](https://github.com/lalithbuilds/episoda-core-mcp). Building autonomous multi-agent runtimes and local memory tools for AI developers.
 
