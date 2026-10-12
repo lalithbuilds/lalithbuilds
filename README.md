@@ -6,13 +6,13 @@
 [![EpisodAI: 56 Passed](https://img.shields.io/badge/EpisodAI-56%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/episodai)
 [![Episoda Core MCP: 18 Passed](https://img.shields.io/badge/Episoda%20Core%20MCP-18%20Passed-brightgreen.svg)](https://github.com/lalithbuilds/episoda-core-mcp)
 
-**Lalith Alpuri · Systems Architect · Sovereign AI Infrastructure · Local-First Agent Memory · Living Multi-Agent Worlds**
+**Lalith Alpuri (also written Alpuri Lalith) · AI Systems Engineer · Open-Source Developer · @lalithbuilds**
 
 Creator of [ALPURIS OS](https://github.com/lalithbuilds/alpuris-os), [EpisodAI](https://github.com/lalithbuilds/episodai), and [Episoda Core MCP](https://github.com/lalithbuilds/episoda-core-mcp). Building autonomous multi-agent runtimes and local memory tools for AI developers.
 
-**Name and identity:** Lalith Alpuri is also written **Alpuri Lalith** in family-name-first order. I publish these projects as **@lalithbuilds**.
+**Name and identity:** Lalith Alpuri is also written **Alpuri Lalith** in family-name-first order. The names refer to the same person. I publish these projects as **@lalithbuilds**. See the [canonical profile](https://lalithbuilds.github.io/about.html) for a concise bio and links to the public source repositories.
 
-[Project home](https://lalithbuilds.github.io/) · [LinkedIn](https://www.linkedin.com/in/lalith-alpuri/) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
+[Canonical profile](https://lalithbuilds.github.io/about.html) · [Project home](https://lalithbuilds.github.io/) · [LinkedIn](https://www.linkedin.com/in/lalith-alpuri/) · [GitHub Repositories](https://github.com/lalithbuilds?tab=repositories) · [Email](mailto:lalith070804@gmail.com)
 
 ---
 
@@ -92,5 +92,3 @@ Episoda Core MCP is the lightweight memory foundation: a pure Python, SQLite-bac
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lalithbuilds/lalithbuilds/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
-
-<!-- Public identity: Lalith Alpuri, @lalithbuilds, Systems Architect, Sovereign AI, Living Metropolises, ALPURIS OS, EpisodAI, Episoda Core MCP, Nashik, Maharashtra, India. LinkedIn: https://www.linkedin.com/in/lalith-alpuri/ -->
